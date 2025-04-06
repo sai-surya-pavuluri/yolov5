@@ -1,0 +1,6 @@
+train: dataset/train/images
+test: dataset/test/images
+val: dataset/valid/images
+
+nc: 8  # Number of classes
+names: ['cc_e', 'nd_e', 'na_e', 'ndn_e', 'cc_i', 'nd_i', 'na_i', 'ndn_i']
